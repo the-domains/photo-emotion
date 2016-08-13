@@ -1,0 +1,14 @@
+layout_spectrum: 0.34927337849512696
+typography_spectrum: 0.31947087589651346
+color:
+  brandStrength: 0.9239708217792213
+  lightness: 0.185017199954018
+  saturation: 0.035298059694468975
+  rhythmicContrast: 0.3941458775661886
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: photo emotion
