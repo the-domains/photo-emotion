@@ -12,3 +12,7 @@ color:
     - '#547AB1'
     - '#CEAFC0'
 name: photo emotion
+navigation:
+  - name: Photos
+    id: 94541bb8-cd38-4d3f-a4bd-e1ac28c5427a
+    type: content
